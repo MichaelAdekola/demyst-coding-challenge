@@ -1,0 +1,29 @@
+{
+    "ColumnNames": [
+        "Business ID",
+        "Business Name",
+        "State",
+        "Postal Code",
+        "Industry",
+        "Number of Employees",
+        "Revenue",
+        "Established Year",
+        "ABN",
+        "Website"
+    ],
+    "Offsets": [
+        "6",
+        "20",
+        "3",
+        "4",
+        "15",
+        "3",
+        "7",
+        "4",
+        "11",
+        "25"
+    ],
+    "FixedWidthEncoding": "windows-1252",
+    "IncludeHeader": "True",
+    "DelimitedEncoding": "utf-8"
+}
