@@ -18,7 +18,7 @@ This part of the project focuses on generating a large CSV file and anonymizing 
 
 ### How to Run
 
-For detailed instructions on how to run this part of the project, refer to the [README.md](data-processing/README.md) in the `data-processing` directory.
+For detailed instructions on how to run this part of the project, refer to the [README.md](data_processing/README.md) in the `data_processing` directory.
 
 ## License
 
