@@ -11,8 +11,8 @@ This project is a Python script designed to generate a fixed-width file based on
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/MichaelAdekola/demyst-coding-challenge.git
+   cd demyst-coding-challenge/fixed_width_parser
    ```
 2. **Run the script**:
 
